@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yiefoongah.beardy.digital/sitemap.xml
